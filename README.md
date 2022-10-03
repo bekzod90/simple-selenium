@@ -15,4 +15,4 @@ Dependency
  - [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
  - [Maven](http://maven.apache.org/download.cgi)
  - [ChromeDriver](https://code.google.com/p/selenium/wiki/ChromeDriver)
- - [IntelliJ](http://www.jetbrains.com/idea/download/). Nice to have. Not a real dependency.
+ - [IntelliJ](http://www.jetbrains.com/idea/download/)
