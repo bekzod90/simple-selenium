@@ -8,7 +8,6 @@ Usage
 From terminal:
     `mvn compile test -Dtest=testDriver`
 
-
 Dependency
 ---------------
  - [Java JRE](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
